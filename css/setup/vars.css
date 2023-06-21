@@ -1,0 +1,14 @@
+:root {
+	/* COLOR PALLET */
+	--primary-color-1: #22252c;
+	--primary-color-2: #383b42;
+
+	/* SIZES */
+	--header-height: 73px;
+	--l-meme-container: 1250px;
+	--m-meme-container: 800px;
+	--l-editor-button-size: 3.675rem;
+	--m-editor-button-size: 3rem;
+	--l-editor-font-size: 1em;
+	--m-editor-font-size: 0.6em;
+}
